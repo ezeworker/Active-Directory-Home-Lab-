@@ -19,5 +19,5 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
-<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/a563992f-f3c5-46bc-99c2-3cd145a7772e" />
+<img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/a563992f-f3c5-46bc-99c2-3cd145a7772e" />
 *Ref 1: Network Diagram*
