@@ -93,4 +93,23 @@ Here the windows server (DC) has successfully been installed
 
 
 
+<img width="1013" height="562" alt="image" src="https://github.com/user-attachments/assets/9e43bef9-846f-49d2-834d-7c18ae396db8" />
+
+<img width="1015" height="441" alt="image" src="https://github.com/user-attachments/assets/8951736d-52d8-4100-a607-e2edc5720636" />
+
+<img width="1022" height="768" alt="image" src="https://github.com/user-attachments/assets/98303bae-a6ea-4d28-959c-231ae164e5da" />
+
+<img width="1030" height="770" alt="image" src="https://github.com/user-attachments/assets/bcb136f3-6b23-4f8f-8f74-cf4598d15fff" />
+
+<img width="1016" height="769" alt="image" src="https://github.com/user-attachments/assets/b31a18e1-9dc5-4ca9-bf92-b73c96e6fb0c" />
+
+<img width="758" height="557" alt="image" src="https://github.com/user-attachments/assets/983217f9-09f6-4bfe-a752-fe8e54f4089c" />
+<img width="751" height="552" alt="image" src="https://github.com/user-attachments/assets/abb6270e-c917-4dd0-8ba3-b0da1d9d45b7" />
+
+
+
+
+
+
+
 
