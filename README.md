@@ -15,6 +15,6 @@
 
 *Ref 1: Network Diagram*
 
-Here is the Network Diagram on how the Home lab will be set up.This consists of two virtual machines. One running the Windows 2022 Server which will act as the Domain Controller (DC) and the other unning Windows 10 this will serve as the client. The DC will also consist of the following services: Domain/Active Directory Domain servcies (AD DS), Remote Access Services/ Network Address Translation (RAS/NAT) and a Dynamic Host Control Protocol service (DHCP) where we will define the scope of the client machines who join the domain.
+Here is the Network Diagram on how the Home lab will be set up.This consists of two virtual machines. One running the Windows 2022 Server which will act as the Domain Controller (DC) and the other unning Windows 10 this will serve as the client. The DC will also consist of the following services: Domain/Active Directory Domain servcies (AD DS), Remote Access Services/ Network Address Translation (RAS/NAT) and a Dynamic Host Control Protocol service (DHCP) where the DC will define the scope of the client machines that join the domain.
 
 
