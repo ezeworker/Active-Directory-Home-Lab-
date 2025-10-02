@@ -19,4 +19,7 @@ Here is the Network Diagram on how the Home lab will be set up.This consists of 
 
 <img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/c4e3ecea-2a07-4297-a5ce-ad5f88f6bf13" />
 
+*Ref 2: Virtual Box*
+
+Once Virtual Box is installed the DC and Client machines will need to be set up. This can be done by visting the Oracle VirtualBox website <a href="https://www.virtualbox.org/wiki/Downloads"> Virtual Box Website</a> and installing the correct host. The DC will be done first and the client machines will be done later. By selecting New we can set up a new virtual machine. 
 
