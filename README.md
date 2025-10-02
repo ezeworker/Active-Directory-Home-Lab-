@@ -2,26 +2,19 @@
 
 ## Objective
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+
 
 ### Skills Learned
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+
 
 ### Tools Used
-
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
 <img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/1c6e0827-4d6f-47a5-b1b4-495019655910" />
 
-
-Here is the network diagram on how the Virtual Machine's will be set up. 
-
 *Ref 1: Network Diagram*
+
+Here is the Network Diagram on how the Home lab will be set up.This consists of two virtual machines. One running the windows 2022 sever which will act as the Domain Controller (DC) and the other running windows 10 this iwll serve as the client. The DC will also consist of the following services: Domain/Active Directory Domain servcies (AD DS), Remote Access Services/ Network Address Translation (RAS/NAT) and a Dynamic Host Control Protocol service (DCHP) where we will define the scope of the client machines who join the domain.
+
+
