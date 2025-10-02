@@ -74,13 +74,22 @@ Select the standard evaulation desktop experience
 
 <img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/e573c197-c476-4e62-9cf9-99431bd7e8fd" />
 
-*ref 10: DC setup (Custom Insatll)*
+*ref 10: DC setup (Custom Install)*
 
-Select Custom Install and select the disk space that was set at the begining in ref 3.
+Select Custom Install and select the disk space that was set at the begining in ref 3 and click next here the server should begin installing.
+
+<img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/dede46e5-4ce3-4502-ae68-542d9365acf6" />
+
+*ref 11: inital setup page*
+
+Once Windows 2022 Server has been installed and has been rebooted for the first time we wil be presented with this page were we can set a password and then proceed to login . 
 
 
+<img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/64c91a7b-0091-46e8-a466-4e4f4213dda9" />
 
+*ref 12: Window Server 2022 successfully installed*
 
+Here the windows server (DC) has successfully been installed
 
 
 
