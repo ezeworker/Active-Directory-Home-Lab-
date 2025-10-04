@@ -179,5 +179,5 @@ I have already completed this but i had to define my scope which was "172.15.0.1
 
 *Ref 26: Active Directory user account creation using powershell*
 
-I then ran a script on the DC virtual machine to create 1000 Active Directory.
+I then ran a script on the DC virtual machine to create 1000 users for Active Directory.
 
