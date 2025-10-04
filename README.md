@@ -169,9 +169,9 @@ The next step was to install DHCP this will be used to automatically assign our 
 
 <img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/a0fd1aa9-7305-4f0a-bf5b-7488447f9f0a" />
 
-*Ref 25: DCHP configurations*
+*Ref 25: DHCP configurations*
 
-I have already completed this but i had to define my scope which was "172.15.0.100-172.15.0.200" and a prefix of 24. I did not add any exclusions and delays. I kept the lease duration for 8 days before the client ip changes. I then added the default gateway and my domain name "ezeworker.com" and kept everything else blank.
+I have already completed this but i had to define my scope which was "172.15.0.100-172.15.0.200" and a prefix of 24. I did not add any exclusions and delays. I kept the lease duration for 8 days before the client IP changes. I then added the default gateway and my domain name "ezeworker.com" and kept everything else blank.
 
 <img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/2d78eae7-4c3c-42b4-950f-6c245db29f21" />
 <img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/3d978473-31cb-44ca-b42f-1e593b3fe669" />
