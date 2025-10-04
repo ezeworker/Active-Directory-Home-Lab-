@@ -191,7 +191,7 @@ Here, I checked the DHCP address lease after logging into the client machine. In
 
 
 <img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/d83daace-4b4e-41b7-a15f-b46b0e6271ac" />
-<img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/998cc8ba-e163-42aa-9ba8-13e6ec463262" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/998cc8ba-e163-42aa-9ba8-13e6ec463262" />
 
 *Ref 29: Joining the domain on client machine*
 
