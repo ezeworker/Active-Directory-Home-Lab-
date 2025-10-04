@@ -1,14 +1,28 @@
 # Active-Directory-Home-Lab-
 
 ## Objective
-
-
+The objective for this home lab is to simulate a corporate network as well as manage the tasks that one might face while working in and IT environment. This home lab looks at alot of thing such as virtualisation, networking, Scripting, user access control and Troubleshooting. 
 
 ### Skills Learned
-
-
+- using Virtualisation and Containerisation
+- setting up devices on a Network and joining them together
+- setting up User Accounts with different Privileges
+- creating User Accounts using Powershell for Automation
+- diverting Internet Traffic from one Domain Controller to a Private Network
+- Designing a Network
+- Troubleshooting 
 
 ### Tools Used
+- Virtual Box
+- Windows Server 2022
+- Windows 10
+- Active Directory
+- Powershell
+- DHCP
+- Remote Services
+- Command Prompt
+
+
 
 ## Steps
 <img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/1c6e0827-4d6f-47a5-b1b4-495019655910" />
